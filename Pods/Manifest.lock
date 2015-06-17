@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (1.2.2)
+  - SwiftyDropbox (0.2):
+    - Alamofire (~> 1.2.0)
+
+DEPENDENCIES:
+  - SwiftyDropbox (from `git@github.com:dropbox/SwiftyDropbox.git`, tag `0.2`)
+
+EXTERNAL SOURCES:
+  SwiftyDropbox:
+    :git: git@github.com:dropbox/SwiftyDropbox.git
+    :tag: '0.2'
+
+CHECKOUT OPTIONS:
+  SwiftyDropbox:
+    :git: git@github.com:dropbox/SwiftyDropbox.git
+    :tag: '0.2'
+
+SPEC CHECKSUMS:
+  Alamofire: 11a6022f5089887d92ffb5a3014c97a0a915ab98
+  SwiftyDropbox: 39d8914ba765d879eccac82691557e59c2d3fdb2
+
+COCOAPODS: 0.37.2
